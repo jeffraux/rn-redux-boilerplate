@@ -9,6 +9,5 @@ The goal of this repository is to create an easy-to-use boilerplate for React Na
   - React Navigation
   - Redux Thunk
   - Redux Persist
-  - Jest
   - CodePush
 

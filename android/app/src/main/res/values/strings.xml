@@ -1,3 +1,6 @@
 <resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">QKn-0hyOIcJ0vJ2Z3lekNwMdDgvuSk6dMKBhQ</string>
     <string name="app_name">ReduxBoilerplate</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true">ALWAYS_SEND</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true">ALWAYS_SEND</string>
 </resources>
