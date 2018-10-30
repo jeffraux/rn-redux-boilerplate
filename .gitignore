@@ -58,5 +58,3 @@ fastlane/screenshots
 # Cocoapods
 #
 Pods/
-
-package-lock.json
